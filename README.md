@@ -6,7 +6,8 @@ David Heinemeier Hansson（DHH）在 Rails World 2026 開場演講裡，用柯�
 
 - `index.html` —— 發布用網頁（可直接用瀏覽器開啟）
 - `dhh_rails_world_2026_keynote.md` —— 深度導讀 Markdown 原稿
-- `images/` —— 3 組資訊圖表／插圖：
+- `images/` —— 4 組資訊圖表／插圖：
+  - `summary-overview.png` + `summary-overview-mobile.png`（頁首「一圖看懂」全覽圖，桌面 16:9 / 手機 9:16，同時作為 OG／Twitter Card 分享預覽圖）
   - `timeline-photography-software.png` + `timeline-photography-software-mobile.png`（攝影×軟體平民化時間軸，桌面 16:9 / 手機 9:16）
   - `cli-universal-key.png`（CLI 通用協定概念圖，16:9）
   - `agent-luther-reformation.png`（Agent Luther 宗教改革意象，16:9）
@@ -35,4 +36,6 @@ David Heinemeier Hansson（DHH）在 Rails World 2026 開場演講裡，用柯�
 
 ## 狀態
 
-僅本機完成，尚未發布。使用者未要求發布、初始化獨立 Git repo 或推送遠端。
+已發布。公開網址：https://lushinshang.github.io/dhh_rails_world_2026_keynote/
+發布 repo：https://github.com/lushinshang/dhh_rails_world_2026_keynote
+發布日期：2026-09-25。頁面已補上 Open Graph／Twitter Card meta tags 與「一圖看懂」全覽圖，LINE 等通訊軟體分享會顯示標題、描述與全覽圖預覽卡片。
