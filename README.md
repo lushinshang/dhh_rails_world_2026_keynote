@@ -2,6 +2,12 @@
 
 David Heinemeier Hansson（DHH）在 Rails World 2026 開場演講裡，用柯達 Brownie 相機平民化的攝影史，類比軟體開發正在經歷的同一種「摩擦力歸零」過程——起點是 2025 年 11 月 24 日 Claude Opus 4.5 發布的那一天。他講了自己如何從一年寫三萬行 Ruby，變成幾乎不再手寫程式碼；如何一邊痛罵 Rust 醜，一邊靠它把 Hey 後端的資源用量砍掉九成以上；也講了 CLI、Omarchy、自動化就業悖論與「Agent Luther」的宗教改革比喻。這篇深度導讀完整還原逐字稿內容，並對其中可查證的歷史與數字主張做了獨立查證，包括指出兩處他為了故事效果而簡化甚至誇大的數字。
 
+## 200字介紹
+
+DHH 在 Rails World 2026 開場演講：2025 年 11 月 24 日 Claude Opus 4.5 發布那天，是他心中軟體業的分水嶺。過去 21 年他每年寫 3 萬行 Ruby，現在幾乎不寫程式碼，37signals 宣告「pencils down」。他痛罵 Rust 醜，卻靠它把 Hey 後端 CPU 砍掉 99%；唯一要求：下週五前補齊 CLI，沒有藉口。他說：黑色藥丸是留給魯蛇的。
+
+完整導讀：https://lushinshang.github.io/dhh_rails_world_2026_keynote/
+
 ## 檔案清單
 
 - `index.html` —— 發布用網頁（可直接用瀏覽器開啟）
