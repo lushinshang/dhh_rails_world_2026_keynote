@@ -4,7 +4,7 @@ David Heinemeier Hansson（DHH）在 Rails World 2026 開場演講裡，用柯�
 
 ## 200字介紹
 
-DHH（Ruby on Rails 創造者、37signals 共同創辦人）在 Rails World 2026 開場演講：2025 年 11 月 24 日 Claude Opus 4.5 發布，是軟體業的分水嶺。過去 21 年每年寫 3 萬行 Ruby，現在幾乎不寫程式碼，37signals 宣告「pencils down」。他痛罵 Rust 醜，卻靠它把 Hey 後端 CPU 砍掉 99%；唯一要求：下週五前補齊 CLI。他說：別學那些看衰未來的悲觀主義者，選擇樂觀，全力加速。
+DHH（Ruby on Rails 創造者、37signals 共同創辦人）在 Rails World 2026 開場演講：2025 年 11 月 24 日 Claude Opus 4.5 發布，他視為軟體業的分水嶺。過去 21 年他每年寫 3 萬行 Ruby，現在幾乎不再親手寫程式碼，改成叫 AI agent 代寫——連他嫌醜的 Rust 語言也丟給 agent 處理，自己完全不用看，效能卻大幅提升。他也要求所有軟體都要做出命令列介面，讓 AI 能直接操作，別無藉口。
 
 完整導讀：https://lushinshang.github.io/dhh_rails_world_2026_keynote/
 
