@@ -4,7 +4,7 @@ David Heinemeier Hansson（DHH）在 Rails World 2026 開場演講裡，用柯�
 
 ## 200字介紹
 
-DHH 在 Rails World 2026 開場演講：2025 年 11 月 24 日 Claude Opus 4.5 發布那天，是他心中軟體業的分水嶺。過去 21 年他每年寫 3 萬行 Ruby，現在幾乎不寫程式碼，37signals 宣告「pencils down」。他痛罵 Rust 醜，卻靠它把 Hey 後端 CPU 砍掉 99%；唯一要求：下週五前補齊 CLI，沒有藉口。他說：黑色藥丸是留給魯蛇的。
+DHH（Ruby on Rails 創造者、37signals 共同創辦人）在 Rails World 2026 開場演講：2025 年 11 月 24 日 Claude Opus 4.5 發布，是他心中軟體業的分水嶺。過去 21 年他每年寫 3 萬行 Ruby，現在幾乎不寫程式碼，37signals 宣告「pencils down」。他痛罵 Rust 醜，卻靠它把 Hey 後端 CPU 砍掉 99%；唯一要求：下週五前補齊 CLI，沒有藉口。他說：黑色藥丸是留給魯蛇的。
 
 完整導讀：https://lushinshang.github.io/dhh_rails_world_2026_keynote/
 
